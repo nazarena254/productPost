@@ -10,14 +10,14 @@ class Config:
 
 
 # class TestConfig(Config):
-#     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://mugera:Mugbwo9856@localhost/watch2_test'
+#     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://'
 
 class ProdConfig(Config):
     pass
 
 
 class DevConfig(Config):
-    # SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://mugera:Mugbwo9856@localhost/currency'
+    # SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://'
     DEBUG = True
 
 config_options = {
