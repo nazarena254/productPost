@@ -1,7 +1,7 @@
 # Flaskshop
 
 ## Description
-Basic flask application that unables users to sign in and post their products for selling.
+Basic flask application that enables users to sign in and post their products for selling.
 
 ## Author
 Nazarena Wambura.</br>
