@@ -6,6 +6,10 @@
 * Run `pip install <packagename>` to install other dependencies.
 * Run `pip install -r requirements.txt` to install all dependencies in requirements.txt file .
 
+  INSTALL POSTGRESQL BD
+*  sudo apt-get update
+*  sudo apt-get install postgresql postgresql-contrib libpq-dev
+
    START SERVER
 * Run `python3.9 manage.py server` to start server.
 * Alternatively `chmod a+x start.sh` , `./start.sh`
