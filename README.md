@@ -11,7 +11,7 @@ Nazarena Wambura.</br>
 * Python3.9
 * Flask2.1.1
 * Heroku7.60.2
-* Markdown
+
 
 ### Running the Application
 1. Pre-requisites
